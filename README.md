@@ -1,13 +1,12 @@
 <!-- Banner Image or Quote Image -->
 ![Banner](https://github.com/ryuk27/ryuk27/blob/main/img/Black%20Brown%20Geometric%20Motivational%20Desktop%20Wallpaper.png)
 
-# Welcome to My GitHub Profile
+# Hey there! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-Hi, I'm [Your Name]!  
+Hi, I'm [Ram]!  
 Welcome to my GitHub profile. Connect with me on:
-- [Twitter](https://twitter.com/yourprofile)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/ram0912)
+- [Email](mailto:ram09@ieee.org)
 
 ## About Me
 
