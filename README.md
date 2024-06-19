@@ -5,6 +5,7 @@
 
 Hi, I'm Ram!  
 Welcome to my GitHub profile. Connect with me on:
+
 <p align="left">
   LinkedIn: 
   <a href="https://www.linkedin.com/in/ram0912" target="_blank">
@@ -21,6 +22,8 @@ Welcome to my GitHub profile. Connect with me on:
 
 I'm a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and working on innovative projects. I am more into animes and I love poetry.
 
+![GIF](https://your-gif-image-link.com/your-gif.gif)
+
 ## Tech Stack - 👩‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
@@ -32,10 +35,14 @@ I'm a passionate developer with experience in various programming languages and 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
+## Favorite Song
+[![River Flows in You](https://img.icons8.com/color/48/000000/spotify.png)](https://open.spotify.com/track/5eV7AuKQbIAhH1jCwF9U5V?si=your-spotify-track-id)
+
+<iframe src="https://open.spotify.com/embed/track/5eV7AuKQbIAhH1jCwF9U5V?si=your-spotify-track-id" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuk27&show_icons=true&theme=radical)
-
 
 
 <!--
