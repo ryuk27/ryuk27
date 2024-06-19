@@ -17,22 +17,15 @@ Welcome to my GitHub profile. Connect with me on:
 I'm a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and working on innovative projects.
 
 ## Languages I am Frequent With
-
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash"/></td>
-    <td><img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/julia.png" alt="Julia"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/mysql.png" alt="MySQL"/></td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333333)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
 ## My Favorite Song
 [![River Flows in You](https://img.icons8.com/color/48/000000/spotify.png)](https://open.spotify.com/track/5eV7AuKQbIAhH1jCwF9U5V?si=your-spotify-track-id)
