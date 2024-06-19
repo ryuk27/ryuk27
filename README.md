@@ -1,14 +1,14 @@
 <!-- Banner Image or Quote Image -->
 ![Banner](https://github.com/ryuk27/ryuk27/blob/main/img/Black%20Brown%20Geometric%20Motivational%20Desktop%20Wallpaper.png)
 
-# Hey there! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+### Hey there! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 Hi, I'm [Ram]!  
 Welcome to my GitHub profile. Connect with me on:
-- [LinkedIn](www.linkedin.com/in/ram0912)
-- [Email](mailto:ram09@ieee.org)
-
-## About Me
+<p align="left">
+<a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+</p>
+### About Me
 
 ![GIF](https://your-gif-image-link.com/your-gif.gif)
 
