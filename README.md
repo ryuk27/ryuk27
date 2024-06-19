@@ -6,8 +6,15 @@
 Hi, I'm Ram!  
 Welcome to my GitHub profile. Connect with me on:
 <p align="left">
-Linkedin : <a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-Email : <a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
+  LinkedIn: 
+  <a href="https://www.linkedin.com/in/ram0912" target="_blank">
+    <img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  Email: 
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="Email" height="30" />
+  </a>
 </p>
 
 ### About Me
