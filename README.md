@@ -3,11 +3,11 @@
 
 ### Hey there! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-Hi, I'm [Ram]!  
+Hi, I'm Ram!  
 Welcome to my GitHub profile. Connect with me on:
 <p align="left">
-<a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
+Linkedin : <a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+Email : <a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
 </p>
 
 ### About Me
