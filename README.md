@@ -7,6 +7,7 @@ Hi, I'm [Ram]!
 Welcome to my GitHub profile. Connect with me on:
 <p align="left">
 <a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="www.linkedin.com/in/ram0912" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
 </p>
 
 ### About Me
