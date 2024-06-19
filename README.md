@@ -19,11 +19,9 @@ Welcome to my GitHub profile. Connect with me on:
 
 ### About Me
 
-![GIF](https://your-gif-image-link.com/your-gif.gif)
+I'm a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and working on innovative projects. I am more into animes and I love poetry.
 
-I'm a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and working on innovative projects.
-
-## Languages I am Frequent With
+## Tech Stack - 👩‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333333)
@@ -34,20 +32,9 @@ I'm a passionate developer with experience in various programming languages and 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
-## My Favorite Song
-[![River Flows in You](https://img.icons8.com/color/48/000000/spotify.png)](https://open.spotify.com/track/5eV7AuKQbIAhH1jCwF9U5V?si=your-spotify-track-id)
-
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-<!-- Optional: Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-<!-- Optional: Streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
-
 
 
 
