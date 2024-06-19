@@ -1,5 +1,5 @@
 <!-- Banner Image or Quote Image -->
-![Banner](https://www.canva.com/templates/EAFFa4KUNAE-black-brown-geometric-motivational-desktop-wallpaper/)
+![Banner](https://github.com/ryuk27/ryuk27/blob/main/img/Black%20Brown%20Geometric%20Motivational%20Desktop%20Wallpaper.png)
 
 # Welcome to My GitHub Profile
 
