@@ -34,7 +34,7 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuk27&show_icons=true&theme=radical)
 
 
 
