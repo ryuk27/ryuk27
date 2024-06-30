@@ -35,6 +35,14 @@ I'm a passionate developer with experience in various programming languages and 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
+##Contributed Till Now
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ryuk27/ryuk27/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 <!--
 **ryuk27/ryuk27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
