@@ -24,7 +24,7 @@ I'm a passionate developer with experience in various programming languages and 
 
 ![GIF](https://your-gif-image-link.com/your-gif.gif)
 
-## Tech Stack - 👩‍💻 Programming Languages
+## Tech Stack - Languages | Frameworks | Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333333)
