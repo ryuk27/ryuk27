@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OffSec<br>🤝 I’m looking for help with Cyber Security<br>🌱 I’m currently learning Pentesting<br>💬 Ask me about animes
+🔭 I’m currently working on OffSec.<br>🤝 I’m looking for help with Cyber Security.<br>🌱 I’m currently learning Pentesting.<br>💬 Ask me about Animes and Poetry.
 
 
 ## 🌐 Socials:
