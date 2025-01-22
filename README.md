@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on CEH.<br>🤝 I’m looking for help with Cyber Security.<br>🌱 I’m currently learning Pentesting.<br>💬 Ask me about Animes and Poetry.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryuk27)](https://github.com/ryuk27/github-profile-trophy)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram0912) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lykira569) 
