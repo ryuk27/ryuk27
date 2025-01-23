@@ -40,4 +40,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerosk&label=Profile%20views&color=0e75b6&style=flat" alt="hackerosk" /> </p>
