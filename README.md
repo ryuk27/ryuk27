@@ -14,7 +14,7 @@
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
-#### 🧰 Offensive Security Tools:
+### 🧰 Offensive Security Tools:
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23232F3E.svg?style=plastic&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0077C2.svg?style=plastic&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FCA121?style=plastic&logo=burpsuite&logoColor=black)
