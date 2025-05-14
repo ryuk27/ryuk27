@@ -6,28 +6,48 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram0912) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lykira569) 
 
-# 💻 Tech Stack:
+## 🛡️ Cybersecurity & Ethical Hacking Tech Stack
 
-### Programming Languages:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+### 🧠 Programming & Scripting Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
-### Frontend Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white)
+#### 🧰 Offensive Security Tools:
+![Metasploit](https://img.shields.io/badge/Metasploit-%23232F3E.svg?style=plastic&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0077C2.svg?style=plastic&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FCA121?style=plastic&logo=burpsuite&logoColor=black)
+![SQLmap](https://img.shields.io/badge/SQLmap-%23cc0000.svg?style=plastic&logo=sqlite&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-%23007396.svg?style=plastic&logo=gnu-privacy-guard&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-%23FF0000.svg?style=plastic&logo=apache&logoColor=white)
+![SET](https://img.shields.io/badge/Social%20Engineering%20Toolkit-%23000000.svg?style=plastic&logo=redhat&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-%23000000.svg?style=plastic&logo=lock&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=plastic&logo=lock&logoColor=white)
 
-### Backend Development:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+### 🛡️ Defensive & Scanning Tools:
+![Wireshark](https://img.shields.io/badge/Wireshark-%231572B6.svg?style=plastic&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000.svg?style=plastic&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-%232483C0.svg?style=plastic&logo=tenable&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-%23007850.svg?style=plastic&logo=gnu-privacy-guard&logoColor=white)
+![Nexpose](https://img.shields.io/badge/Nexpose-%23FF6F00.svg?style=plastic&logo=rapid7&logoColor=white)
+![IBM AppScan](https://img.shields.io/badge/IBM%20AppScan-%23121011.svg?style=plastic&logo=ibm&logoColor=white)
+![GoPhish](https://img.shields.io/badge/GoPhish-%230D4F8B.svg?style=plastic&logo=phishing&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-000000?style=plastic&logo=codeforces&logoColor=white)
 
-### DevOps & Cloud:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
+### 🐧 Systems & Environments:
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=plastic&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=linux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%233178C6.svg?style=plastic&logo=virtualbox&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
 
-### Databases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+### 🧬 Concepts & Practices:
+![SDLC](https://img.shields.io/badge/SDLC-%230084FF.svg?style=plastic&logo=azuredevops&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version%20Control-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23009688.svg?style=plastic&logo=openai&logoColor=white)
 
-### Machine Learning & Data Science:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-
-### Tools & Others:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ryuk27&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryuk27&theme=date_night&hide_border=false)<br/>
